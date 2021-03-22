@@ -1,6 +1,6 @@
 <html>
     <head>
-        <title>Basic Web Page</title>
+        <title> Basic Web Page </title>
     </head>
     <body>
     <div class: "header">
