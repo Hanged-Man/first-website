@@ -1,7 +1,5 @@
 <html>
-    <head>
-        <title> Basic Web Page </title>
-    </head>
+    <title> Basic Web Page </title>
     <body>
     <div class: "header">
         <img src="/images/JazzBarBackground2.jpg">
