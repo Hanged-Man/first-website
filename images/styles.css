@@ -9,4 +9,5 @@ p {
 }
 .flex-navbar {
   display: flex;
+  flex-direction: row;
 }
